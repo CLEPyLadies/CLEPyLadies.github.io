@@ -1,6 +1,6 @@
-# Cleveland PyLadies
+# What is PyLadies?
 
-Cleveland PyLadies is a diversity organization.
+Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.
 
 ## Connect with us!
 
