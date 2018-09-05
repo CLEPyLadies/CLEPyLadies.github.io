@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+# Cleveland PyLadies
 
-You can use the [editor on GitHub](https://github.com/CLEPyLadies/CLEPyLadies.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cleveland PyLadies is a diversity organization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Connect with us!
 
-### Markdown
+We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies), [Facebook](https://www.facebook.com/clepyladies/), & [Instagram](https://www.instagram.com/CLEPyLadies) as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies). Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/)!
+
+### Speak at our meetup
+
+We have a [papercall.io event page](https://www.papercall.io/clepyladies) for submitting talk proposals.
+
+
+### Editor Aid: Markdown Guide
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,11 +34,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CLEPyLadies/CLEPyLadies.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
