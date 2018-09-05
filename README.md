@@ -46,7 +46,7 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 
 [Python Bytes](https://pythonbytes.fm/)
 
-[Podcast.__init__](https://www.podcastinit.com/)
+[Podcast.`__init__`](https://www.podcastinit.com/)
 
 
 ### Editor Aid: Markdown Guide
