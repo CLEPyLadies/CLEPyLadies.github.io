@@ -4,9 +4,9 @@ Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive 
 
 ## Connect with us!
 
-We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies), [Facebook](https://www.facebook.com/clepyladies/), & [Instagram](https://www.instagram.com/CLEPyLadies) as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies). Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/)!
+We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies/), [Facebook](https://www.facebook.com/clepyladies/), & [Instagram](https://www.instagram.com/CLEPyLadies/) as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies/). Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/)!
 
-We have channels on two Slack workspaces: [PyLadies global](slackin.pyladies.com) (as #Cleveland) and the [Cleveland Tech](cleveland-tech.slack.com) (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general [Cleveland Python User Group](https://www.clepy.org/).
+We have channels on two Slack workspaces: [PyLadies global](https://slackin.pyladies.com/) (as #Cleveland) and the [Cleveland Tech](https://cleveland-tech.slack.com/) (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general [Cleveland Python User Group](https://www.clepy.org/).
 
 ### Speak at our meetup
 
@@ -47,6 +47,14 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 [Python Bytes](https://pythonbytes.fm/)
 
 [Podcast.`__init__`](https://www.podcastinit.com/)
+
+### PyLadies global
+
+[PyLadies global website](https://www.pyladies.com/)
+
+[PyLadies on Twitter](https://www.twitter.com/pyladies/)
+
+[Organizer info](https://kit.pyladies.com/)
 
 
 ### Editor Aid: Markdown Guide
