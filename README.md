@@ -4,6 +4,8 @@ Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive 
 
 ## Connect with us!
 
+### Socials
+
 We currently have 3 active organizers that can be reached directly (cle at pyladies dot com) for questions. We are on [Twitter](https://www.twitter.com/CLEPyLadies/), [Facebook](https://www.facebook.com/clepyladies/), & [Instagram](https://www.instagram.com/CLEPyLadies/) as CLEPyLadies. We also love to promote local bloggers on [our Medium publication](https://medium.com/cleveland-pyladies/). Check out our upcoming events on [Meetup](https://www.meetup.com/CLE-PyLadies/)!
 
 We have channels on two Slack workspaces: [PyLadies global](https://slackin.pyladies.com/) (as #Cleveland) and the [Cleveland Tech](https://cleveland-tech.slack.com/) (as #CLE-PyLadies). The local slack also has a #CLEpy channel for the general [Cleveland Python User Group](https://www.clepy.org/).
@@ -12,11 +14,21 @@ We have channels on two Slack workspaces: [PyLadies global](https://slackin.pyla
 
 We have a [papercall.io event page](https://www.papercall.io/clepyladies) for submitting talk proposals. You can also reach out to us on Slack or by email if you would like to have a conversation about the topic you have in mind. We aim to stream at least 30 minutes of each meetup on our YouTube channel to facilitate remote participation by the mothers and working women in our community, but can work around any speaker privacy concerns.
 
-## Recommended resources
+### Contribute resources
+
+The source files for this page are in [a publicly available repo](https://github.com/CLEPyLadies/CLEPyLadies.github.io). Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!
+
+### Slide decks from past meetups
+
+2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f)  
+   [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing)  
+   [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
+
+## FRR: Frequently recommended resources
 
 Here is a roundup of resources we commonly recommend:
 
-### For those with little to no programming experience
+### For those with little to no programming experience - or just general code kata sources for keeping sharp!
 
 [Codecademy](https://www.codecademy.com/learn/learn-python)
 
