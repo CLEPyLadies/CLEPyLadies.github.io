@@ -1,8 +1,10 @@
-# What is PyLadies?
+[About](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io/#connect) | [Resources](https://clepyladies.github.io/#frequently-recommended-resources)
+
+# [What is PyLadies?](#about)
 
 Cleveland PyLadies is a local chapter of PyLadies. We are an open and inclusive Python user group explicitly focused on engaging women and underrepresented populations in tech, specifically in and around Northeast Ohio. We are a local chapter of the global Pyladies organization.
 
-## Connect with us!
+## [Connect with us!](#connect)
 
 ### Socials
 
@@ -24,7 +26,7 @@ The source files for this page are in [a publicly available repo](https://github
    [Write your first talk proposal](https://docs.google.com/presentation/d/19BdDbowE1Ec9bbDyD9LfhYsSUllm5qera-eH2APkk28/edit?usp=sharing)  
    [Why/How to Keep a Tech Blog](https://docs.google.com/presentation/d/1KPfsylMuSTvbIzJULoZCJS4rTpbm6M2rauXJAvdwrjk/edit?usp=sharing)
 
-## FRR: Frequently recommended resources
+## [FRR: Frequently recommended resources](#frequently-recommended-resources)
 
 Here is a roundup of resources we commonly recommend:
 
@@ -67,3 +69,5 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 [PyLadies on Twitter](https://www.twitter.com/pyladies/)
 
 [Organizer info](https://kit.pyladies.com/)
+
+[Top](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io/#connect) | [Resources](https://clepyladies.github.io/#frequently-recommended-resources)
