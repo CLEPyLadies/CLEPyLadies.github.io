@@ -1,4 +1,4 @@
-[About](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io/#connect) | [Resources](https://clepyladies.github.io/#frequently-recommended-resources)
+[About](https://clepyladies.github.io#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources)
 
 # [What is PyLadies?](#about)
 
@@ -76,4 +76,4 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 
 ---
 
-[Top](https://clepyladies.github.io/#about) | [Connect](https://clepyladies.github.io/#connect) | [Resources](https://clepyladies.github.io/#frequently-recommended-resources)
+[Top](https://clepyladies.github.io#about) | [Connect](https://clepyladies.github.io#connect) | [Resources](https://clepyladies.github.io#frequently-recommended-resources)
