@@ -64,6 +64,8 @@ The [Cleveland PyLadies YouTube channel](https://www.youtube.com/channel/UCrX6AA
 
 [Python Bytes](https://pythonbytes.fm/)
 
+[Base.CS Podcast](https://www.codenewbie.org/basecs)
+
 [Podcast.`__init__`](https://www.podcastinit.com/)
 
 ### PyLadies global
