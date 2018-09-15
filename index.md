@@ -22,6 +22,8 @@ We have a [papercall.io event page](https://www.papercall.io/clepyladies) for su
 
 The source files for this page are in [a publicly available repo](https://github.com/CLEPyLadies/CLEPyLadies.github.io). Want to suggest a resource? Open an issue or make a pull request on the README.md file and we will review/merge it!
 
+[How to contribute to someone's repo](http://kbroman.org/github_tutorial/pages/fork.html)
+
 ### Slide decks from past meetups
 
 2018_09_06: Raise Your Voice - [Mini-Workshop on Being Visible in Tech](http://meetu.ps/e/FLvfB/DxhG9/f)  
